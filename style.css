@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-origin: padding-box;
+    font-style: italic;
+    color: blue;
+}
+
+body{
+    background-color: blue;
+}
+
+main{
+    background-color: aliceblue;
+    margin: auto;
+    box-shadow: 3px 5px black;
+    padding: 10px;
+}
